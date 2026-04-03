@@ -86,6 +86,8 @@ Authorization: Bearer <your_token>
 ## Postman Documentation
 
 All APIs are tested and documented using Postman with sample requests and responses.
+Postman Docs:
+https://hajjishaik86-6761027.postman.co/workspace/Default-workspace~efabbeec-87b8-44b1-b22b-57e6c836ee37/request/47476380-11d612a3-10ad-4acc-9a1f-2c844f5fc9e5?sideView=agentMode
 
 ---
 
